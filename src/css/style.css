@@ -18,6 +18,10 @@ main {
   margin: 0 !important;
 }
 
+.home {
+  min-height: 100dvh;
+}
+
 .perfil {
   max-height: 600px;
 }
